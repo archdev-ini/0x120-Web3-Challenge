@@ -50,7 +50,7 @@ This repo will house all #0x120 projects, code, and milestones. Check back for u
 ## 🚀 Get Involved
 
 - **Follow my journey**: Watch my progress on X with #0x120.  
-- **Build with me**: Join the challenge or share tips in [Buildspace](https://buildspace.so/) or [Developer DAO](https://discord.com/invite/developerdao).  
+- **Build with me**: Join the challenge or share tips  
 - **Hunt the Easter Egg**: Curious about my secret project? Follow my commits for clues! 👀  
 
 ---
@@ -58,8 +58,8 @@ This repo will house all #0x120 projects, code, and milestones. Check back for u
 ## 📌 Connect
 
 - **X**: [Your X Handle]  
-- **GitHub**: [Your GitHub Username]  
+- **GitHub**: @archdev-ini
 - **Lens**: [Your Lens Profile] (coming soon)  
-- **Email**: [Your Email, if desired]  
+
 
 Let’s build the future of Web3 together! 🌐 #0x120
