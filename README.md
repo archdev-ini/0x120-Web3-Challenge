@@ -39,7 +39,7 @@
 ## 🛠️ Progress Tracker
 This repo will house all #0x120 projects, code, and milestones. Check back for updates as I build:
 - **Phase 1**: Landing pages, crypto trackers (Days 1–30)
-  - Day 1: [HTML/CSS Landing Page](index.html), [JS Basics](Day 1/)
+  - Day 1: [HTML/CSS Landing Page](index.html)
 - **Phase 2**: Next.js portfolio, React dashboards (Days 31–55)
 - **Phase 3**: ERC-20 tokens, NFTs, DAOs (Days 56–80)
 - **Phase 4**: Full dApps with Wagmi/Ethers.js (Days 81–110)
