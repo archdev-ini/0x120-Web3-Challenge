@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #2c3e50;
+    padding: 15px;
+
+}
+.logo{
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.links {
+  display: flex;
+  gap: 20px; /* Space between links */
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
+}
+
+.links a:hover {
+  color: #1abc9c; /* Fun Web3 teal color */
+}
